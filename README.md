@@ -1,9 +1,9 @@
 ## Hey 👋, This is Sergii Grynevych
 [![Gmail Badge](https://img.shields.io/badge/-grinevich.sergey.official@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:grinevich.sergey.official@gmail.com)](mailto:grinevich.sergey.official@gmail.com) [![Github Badge](https://img.shields.io/badge/-SergiiGrynevych-grey?style=flat&logo=github&logoColor=white&link=https://github.com/SergiiGrynevych/)](https://www.github.com/SergiiGrynevych/) <p align='left'>
 - 🔭 I’m currently working as a system administrator and designer.
-- 🌱 I’m currently learning JavaScript, React, Node.js
-- 👯 I see myself as a front-end developer.
-- ⚡ Fun fact: play guitar, piano and far cry 5
+- 🌱 I’m currently learning asp.net mvc, asp.net core mvc
+- 👯 I see myself as a back-end developer.
+- ⚡ Fun fact: play guitar, piano 
 </p><p align='left'> You can view my resume <a href='https://sergiigrynevych.github.io/resume/ ' target=_blank><u>here</u>.</a></p>
 
 ## Some of my Github Stats
